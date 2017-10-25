@@ -9,6 +9,10 @@ body{
 background-position: center;
 }
 
+.header h2{
+  font-size: 32px;
+}
+
 h1{
   font-family: Helvetica;
   font-size: 70px;
