@@ -55,3 +55,10 @@ p .nav{
   font-size: 23px;
 color: black;
 }
+
+.footer{
+  color: black;
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+}
