@@ -1,6 +1,5 @@
 body{
   font-family: Helvetica;
-  color: white;
   text-align: center;
 }
 
@@ -11,6 +10,7 @@ background-position: center;
 
 .header h2{
   font-size: 32px;
+  color: white;
 }
 
 h1{
@@ -56,9 +56,21 @@ p .nav{
 color: black;
 }
 
-.footer{
+#contact{
   color: black;
+  font-size: 23px;
+}
+#copy{
+  color: white;
+  text-align: left;
+  background-color: dimgray;
+}
+
+
+}
+.footer{
   background-color: dimgray;
   font-size: 11px;
   text-align: left;
+  color: white;
 }
