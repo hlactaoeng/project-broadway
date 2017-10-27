@@ -10,6 +10,7 @@ background-position: center;
 
 .header h2{
   font-size: 32px;
+  font-weight: bold;
   color: white;
 }
 
@@ -21,53 +22,51 @@ h1{
   text-align: center;
 }
 
-p .nav{
+.nav a{
   font-family: Helvetica;
-  font-size: 28px;
+  font-size: 18px;
   color: white;
 }
 
-.process{
-  color: black;
-}
-
-.process h2{
+h2{
   font-family: Helvetica;
   color: black;
   font-size: 32px;
   weight: bold;
 }
 
-.process h3{
+h3{
   font-family: Helvetica;
   color: black;
   font-size: 23px;
   font-weight: bold;
 }
-.process p{
+
+p{
   font-family: Helvetica;
   font-size: 14px;
   color: black;
 }
 
 .process2{
-  font-family: Helvetica
+  font-family: Helvetica;
   font-size: 23px;
-color: black;
+  color: black;
 }
 
-#contact{
-  color: black;
-  font-size: 23px;
-}
 #copy{
   color: white;
+  font-size: 11px;
   text-align: left;
   background-color: dimgray;
+  color: white;
 }
 
-
+a{
+  color: white;
+  font-size: 11px;
 }
+
 .footer{
   background-color: dimgray;
   font-size: 11px;
